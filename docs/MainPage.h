@@ -1,8 +1,8 @@
 /**
  * @mainpage Andromeda AMInteger library
- * @brief \ref AMInteger - Safe integer operations with overflow detection.
+ * @brief AMInteger - Safe integer operations with overflow detection.
  *
- * If overflow of two integral types may cause problem, you need to use this two funtions.
+ * If overflow of two integral types may cause problem, you need to use this two funtions. Expore file \ref AMInteger.h.
  *
  * Usage
  * =====
