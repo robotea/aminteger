@@ -1,0 +1,3 @@
+// the configured options and settings for Tutorial
+#define AMInteger_VERSION_MAJOR @AMInteger_VERSION_MAJOR@
+#define AMInteger_VERSION_MINOR @AMInteger_VERSION_MINOR@
