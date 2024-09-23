@@ -4,6 +4,8 @@
  *
  * If overflow of two integral types may cause problem, you need to use this two funtions. Expore file \ref AMInteger.h.
  *
+ * Template functions - support all integral types.
+ *
  * Usage
  * =====
  *

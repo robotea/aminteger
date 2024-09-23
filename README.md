@@ -2,6 +2,8 @@
 
 If overflow of two integral types may cause problem, you need to use this two funtions.
 
+Template functions - support all integral types.
+
 ## Usage
 
     #include "aminteger/AMInteger.h"
