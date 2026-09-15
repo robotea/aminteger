@@ -6,11 +6,20 @@ Template functions - support all integral types.
 
 ## Usage
 
+### Safe multiply two integer values
+
     #include "aminteger/AMInteger.h"
 
-    bool rs;
-    int  rv;
+    bool rs; // true for success
+    int  rv; // returned value
     rs = AMIntegerMultiply( 10 , 20 , rv);
+
+### Safe add two integer values
+    
+    #include "aminteger/AMInteger.h"
+
+    bool rs; // true for success
+    int  rv; // returned value
 
     rs = AMIntegerAdd( 10 , 20 , rv);
 
@@ -47,7 +56,7 @@ make
 
 ## License
 
-This library is under GNU GPL v3 license. If you need business license, don't hesitate to contact [me](mailto:zdenek.skulinek\@robotea.com\?subject\=License%20for%20AMInteger).
+This library is under MIT license.
 
 ## Contribute
 
