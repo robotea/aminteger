@@ -16,7 +16,7 @@ Template functions - support all integral types.
 
 ## Documetation
 
-There are doxygen generated documentation [here on libandromeda.org](http://libandromeda.org/aminteger/latest/).
+There are doxygen generated documentation [here on andromeda.robotea.com](http://andromeda.robotea.com/aminteger/latest/).
 
 ## Building AMInteger
 
